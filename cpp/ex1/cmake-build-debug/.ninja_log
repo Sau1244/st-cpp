@@ -1,0 +1,13 @@
+# ninja log v5
+22	139	7567001374505874	CMakeFiles/Global.dir/src/globals.cpp.obj	71c3c8588196cbce
+13	140	7567001374515868	CMakeFiles/Global.dir/src/functions.cpp.obj	12e539b253904217
+2	398	7567001377108560	CMakeFiles/Global.dir/Main.cpp.obj	383f5f533ba85a40
+399	580	7567001378838297	Global.exe	66d5133fcb70d969
+49	154	7567002220029785	CMakeFiles/Global.dir/src/globals.cpp.obj	71c3c8588196cbce
+40	155	7567002220039803	CMakeFiles/Global.dir/src/functions.cpp.obj	12e539b253904217
+31	336	7567002221835889	CMakeFiles/Global.dir/Main.cpp.obj	383f5f533ba85a40
+336	449	7567002222931680	Global.exe	66d5133fcb70d969
+10	81	7567004615919006	CMakeFiles/Global.dir/src/functions.cpp.obj	12e539b253904217
+19	87	7567004615977288	CMakeFiles/Global.dir/src/globals.cpp.obj	71c3c8588196cbce
+4	288	7567004617966650	CMakeFiles/Global.dir/Main.cpp.obj	383f5f533ba85a40
+288	415	7567004619173468	Global.exe	66d5133fcb70d969
