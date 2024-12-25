@@ -20,5 +20,6 @@ set(INCLUDES ${PROJECT_SOURCE_DIR}/include)
 include_directories(${INCLUDES})
 
 file(GLOB SOURCES "${PROJECT_SOURCE_DIR}/src/*.cpp")
-
-add_executable(${PROJECT_NAME} Main.cpp ${SOURCES})
+add_executable(${PROJECT_NAME} Main.cpp ${SOURCES}
+        include/Animal.h
+        src/Animal.cpp)

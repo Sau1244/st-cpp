@@ -1,3 +1,0 @@
-C:/Users/regec/OneDrive/Dokumenty/GitHub/st-cpp/cpp/ex1/cmake-build-debug/CMakeFiles/Global.dir
-C:/Users/regec/OneDrive/Dokumenty/GitHub/st-cpp/cpp/ex1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/regec/OneDrive/Dokumenty/GitHub/st-cpp/cpp/ex1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
